@@ -11,36 +11,36 @@
                 motion:framePosition="20"
                 motion:keyPositionType="deltaRelative"
                 motion:motionTarget="@+id/image"
-                motion:percentX="0.3"
-                motion:percentY="0.3" />
+                motion:percentX="0.4"
+                motion:percentY="0.4" />
             <KeyPosition
                 motion:framePosition="47"
                 motion:keyPositionType="deltaRelative"
                 motion:motionTarget="@+id/image"
-                motion:percentX="0.6" />
+                motion:percentX="0.7" />
             <KeyPosition
                 motion:framePosition="20"
                 motion:keyPositionType="deltaRelative"
                 motion:motionTarget="@+id/image2"
-                motion:percentX="0.3"
-                motion:percentY="0.3" />
+                motion:percentX="0.4"
+                motion:percentY="0.4" />
             <KeyPosition
                 motion:framePosition="47"
                 motion:keyPositionType="deltaRelative"
                 motion:motionTarget="@+id/image2"
-                motion:percentX="0.6" />
+                motion:percentX="0.7" />
             <KeyPosition
                 motion:framePosition="47"
                 motion:keyPositionType="deltaRelative"
                 motion:motionTarget="@+id/textView"
                 motion:percentX="-1"
-                motion:percentY="0.2" />
+                motion:percentY="0.3" />
             <KeyPosition
                 motion:framePosition="47"
                 motion:keyPositionType="deltaRelative"
                 motion:motionTarget="@+id/textView2"
                 motion:percentX="-1"
-                motion:percentY="0.2" />
+                motion:percentY="0.3" />
             <KeyAttribute
                 motion:motionTarget="@+id/image"
                 motion:framePosition="61"
@@ -51,7 +51,7 @@
                 android:alpha="0" />
             <KeyAttribute
                 motion:motionTarget="@+id/image2"
-                motion:framePosition="59"
+                motion:framePosition="61"
                 android:alpha="1" />
             <KeyAttribute
                 motion:motionTarget="@+id/image"
