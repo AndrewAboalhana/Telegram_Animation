@@ -51,7 +51,7 @@
                 android:alpha="0" />
             <KeyAttribute
                 motion:motionTarget="@+id/image2"
-                motion:framePosition="61"
+                motion:framePosition="59"
                 android:alpha="1" />
             <KeyAttribute
                 motion:motionTarget="@+id/image"
