@@ -22,7 +22,8 @@
         android:layout_height="60dp"
         android:layout_margin="@dimen/normal_margin"
         android:scaleType="centerCrop"
-        android:src="@drawable/image"
+        android:src="@drawable/andrew"
+        android:backgroundTint="#6C6B6B"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -31,10 +32,10 @@
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:layout_margin="16dp"
-        android:src="@drawable/image"
-        app:layout_constraintBottom_toBottomOf="@id/app_bar_frame"
-        app:layout_constraintStart_toStartOf="@id/app_bar_frame"
-        app:shapeAppearanceOverlay="@style/circle" />
+        android:src="@drawable/andrew"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:shapeAppearanceOverlay="@style/ShapeAppearance.Material3.Corner.Full" />
 
     <TextView
         android:id="@+id/textView"
